@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Labraitt
+- 👋 Hi, I’m @Ant Loveitt
 - 👀 I’m interested in learning to gather and manipulate data.
-- 🌱 I’m currently learning ... I'm starting with SQL 
-- 💞️ I’m looking to collaborate on ... any beginner friendly SQL projects. Eager to learn. 
+- 🌱 I’m currently learning ... intermediate/advanced Excel features and SQL
+- 💞️ I’m looking to collaborate on ... any beginner friendly data-related projects using Excel/SQL. Involving cleaning and/or manipulating datasets. 
 - 📫 How to reach me ... contact me on this platform.
 
 <!---
